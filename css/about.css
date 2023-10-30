@@ -1,0 +1,31 @@
+/* about */
+
+.about {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #171718;
+    width: auto;
+    color: #FFFFFF;
+    font-family: 'Comfortaa';
+    font-style: normal;
+    margin-top: 20px;
+    padding: 30px;
+}
+
+.about h2 {
+    color: #F7DF1E;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 61px;
+    padding: 30px;
+}
+
+.about h3 {
+    width: 75%;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    margin-top: 20px;
+    padding: 30px;
+}
